@@ -1,0 +1,5 @@
+[project]
+name = "homebench"
+version = "0.1.0"
+description = "Benchmark your local LLMs: speed, memory, and quality, in one command. TUI leaderboard for Ollama, LM Studio, llama.cpp, and vLLM."
+requires-python = ">=3.10"
